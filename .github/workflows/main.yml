@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: netsec007/metrics@master
         with:
-          token: ${{ secrets.metrics_sevret }}
+          token: ${{ secrets.metrics_secret }}
