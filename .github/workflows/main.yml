@@ -15,10 +15,12 @@ jobs:
       - uses: netsec007/metrics@master
         with:
           token: ${{ secrets.metrics_secret }}
+          plugin_topics: yes
+          plugin_topics_limit: 20
           plugin_starlists: yes
-          plugin_starlists_limit_repositories: 8
+          plugin_starlists_limit_repositories: 1
           plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 12
+          plugin_starlists_limit_languages: 20
           plugin_stars: yes
           plugin_stars_limit: 5
 
