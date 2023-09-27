@@ -3,7 +3,7 @@
 ![Logo](https://github.com/netsec007/netsec007/blob/main/electricity-technology-colorful-background-header.jpg)
 
 <h4 align="left"> There's No Place Like 127.0.0.1 </h4>
-
+<p>
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"  /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] <a href="https://github.com/netsec007?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=plastic&logo=koding&logoColor=white"/>
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=green&logo=github&style=plastic
