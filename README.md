@@ -1,4 +1,4 @@
-![Logo](https://github.com/netsec007/netsec007/blob/main/ZZZZZ2898.jpg)
+![Logo](https://github.com/netsec007/netsec007/blob/main/electricity-technology-colorful-background-header.jpg)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website]
 
