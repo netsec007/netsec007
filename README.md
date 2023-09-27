@@ -6,7 +6,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"  /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] <a href="https://github.com/netsec007?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=plastic&logo=koding&logoColor=white"/></a>
 
-</p> 
+<p> 
 align="center">
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
 
