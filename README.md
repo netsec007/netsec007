@@ -21,7 +21,7 @@
 </p>
 
 <br/>
-<p>
+<p align="center">
     <img src="https://img.shields.io/github/stars/netsec007/netsec007?style=for-the-badge&color=brightgreen&style=plastic">
     <img src="https://img.shields.io/github/forks/netsec007/netsec007?style=for-the-badge&color=purple&style=plastic">
     <img src="https://img.shields.io/github/issues/netsec007/netsec007?style=for-the-badge&color=blue&style=plastic">
