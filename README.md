@@ -16,7 +16,7 @@
 </p>
 
 <br/>
-<p align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
 </p>
 
