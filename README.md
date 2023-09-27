@@ -1,4 +1,7 @@
+<h2 align="center"><u>Netsec007</u></h2>
 ![Logo](https://github.com/netsec007/netsec007/blob/main/electricity-technology-colorful-background-header.jpg)
+
+<h4 align="center"> There's No Place Like 127.0.0.1 </h4>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website]
 
@@ -12,9 +15,7 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-<h2 align="center"><u>Netsec007</u></h2>
 
-![There's No Place Like 127.0.0.1](images/banner.png)
 <h4 align="center"> There's No Place Like 127.0.0.1 </h4>
 
 <p align="center">
