@@ -17,8 +17,10 @@ align="center">
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=plastic&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+</p>
 
-
+<br/>
+<p>
     <img src="https://img.shields.io/github/stars/netsec007/netsec007?style=for-the-badge&color=brightgreen&style=plastic">
     <img src="https://img.shields.io/github/forks/netsec007/netsec007?style=for-the-badge&color=purple&style=plastic">
     <img src="https://img.shields.io/github/issues/netsec007/netsec007?style=for-the-badge&color=blue&style=plastic">
