@@ -7,6 +7,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"  /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] <a href="https://github.com/netsec007?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=plastic&logo=koding&logoColor=white"/></a>
 </p>
 
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=green&logo=github&style=plastic
@@ -17,7 +18,7 @@
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=plastic&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-<p align="center">
+
     <img src="https://img.shields.io/github/stars/netsec007/netsec007?style=for-the-badge&color=brightgreen&style=plastic">
     <img src="https://img.shields.io/github/forks/netsec007/netsec007?style=for-the-badge&color=purple&style=plastic">
     <img src="https://img.shields.io/github/issues/netsec007/netsec007?style=for-the-badge&color=blue&style=plastic">
