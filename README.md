@@ -15,7 +15,6 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=plastic&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/netsec007/netsec007?style=for-the-badge&color=brightgreen&style=plastic">
