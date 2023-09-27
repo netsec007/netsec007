@@ -19,12 +19,12 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/netsec007/netsec007?style=for-the-badge&color=orange&style=plastic">
-    <img src="https://img.shields.io/github/forks/netsec007/netsec007?style=for-the-badge&color=purple">
-    <img src="https://img.shields.io/github/issues/netsec007/netsec007?style=for-the-badge&color=red">
-    <img src="https://img.shields.io/github/contributors/netsec007/netsec007?style=for-the-badge&color=cyan">
+    <img src="https://img.shields.io/github/forks/netsec007/netsec007?style=for-the-badge&color=purple&style=plastic">
+    <img src="https://img.shields.io/github/issues/netsec007/netsec007?style=for-the-badge&color=red&style=plastic">
+    <img src="https://img.shields.io/github/contributors/netsec007/netsec007?style=for-the-badge&color=cyan&style=plastic">
 <br>
-    <img src="https://img.shields.io/badge/Author-nilbog-magenta?style=flat-square">
-    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
+    <img src="https://img.shields.io/badge/Author-nilbog-magenta?style=plastic">
+    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=plastic">
 </p>
 
 ![Metrics](https://github.com/netsec007/netsec007/blob/main/github-metrics.svg)
