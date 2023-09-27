@@ -18,7 +18,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic)
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/netsec007/netsec007?style=for-the-badge&color=orange">
+    <img src="https://img.shields.io/github/stars/netsec007/netsec007?style=for-the-badge&color=orange&style=plastic">
     <img src="https://img.shields.io/github/forks/netsec007/netsec007?style=for-the-badge&color=purple">
     <img src="https://img.shields.io/github/issues/netsec007/netsec007?style=for-the-badge&color=red">
     <img src="https://img.shields.io/github/contributors/netsec007/netsec007?style=for-the-badge&color=cyan">
