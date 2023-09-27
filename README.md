@@ -26,10 +26,12 @@
     <img src="https://img.shields.io/github/forks/netsec007/netsec007?style=for-the-badge&color=purple&style=plastic">
     <img src="https://img.shields.io/github/issues/netsec007/netsec007?style=for-the-badge&color=blue&style=plastic">
     <img src="https://img.shields.io/github/contributors/netsec007/netsec007?style=for-the-badge&color=cyan&style=plastic">
-<br>
+<br/>
     <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic">
     <img src="https://img.shields.io/badge/Author-nilbog-magenta?style=plastic">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=plastic">
 </p>
 
+<p align="center">
 ![Metrics](https://github.com/netsec007/netsec007/blob/main/github-metrics.svg)
+<p/>
