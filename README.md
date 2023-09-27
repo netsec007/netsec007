@@ -8,6 +8,7 @@
 
 <p align="center">
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
+</p>
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=green&logo=github&style=plastic
 [github]: https://github.com/netsec007/theVault
