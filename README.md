@@ -1,5 +1,7 @@
 ![Logo](https://github.com/netsec007/netsec007/blob/main/ZZZZZ2898.jpg)
 
+[![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,promethues,pyraspberrypi,vim,vscode)](https://skillicons.dev)
+
 
 
 
