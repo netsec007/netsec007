@@ -31,11 +31,3 @@
 <p align="center">
 <kbd> <img src="https://github.com/netsec007/netsec007/blob/main/github-metrics.svg" /> </kbd>
 <p/>
-
-pn.pane.Markdown("""
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-""", styles={'border': "4px solid blue"})
