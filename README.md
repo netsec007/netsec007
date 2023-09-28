@@ -29,5 +29,5 @@
 </p>
 <br/>
 <p align="center">
-<img style="border: 2px solid blue;" src="https://github.com/netsec007/netsec007/blob/main/github-metrics.svg">
+<img src="https://github.com/netsec007/netsec007/blob/main/github-metrics.svg" border="2px solid blue"/>
 <p/>
