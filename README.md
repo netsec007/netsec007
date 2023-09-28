@@ -1,4 +1,3 @@
-<h2 align="center"><u>Netsec007</u></h2>
 
 ![Logo](https://github.com/netsec007/netsec007/blob/main/github-header-image-8.png)
 
