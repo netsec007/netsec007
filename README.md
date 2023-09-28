@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=plastic">
 </p>
 <br/>
+::: {.border}
 <p align="center">
 <kbd> <img src="https://github.com/netsec007/netsec007/blob/main/github-metrics.svg" /> </kbd>
 <p/>
+:::
