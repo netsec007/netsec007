@@ -5,8 +5,7 @@
 <h4 align="left"> There's No Place Like 127.0.0.1 </h4>
 <p>
     
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"  /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] <a href="https://github.com/netsec007?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=plastic&logo=koding&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic">
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"  /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] <a href="https://github.com/netsec007?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=plastic&logo=koding&logoColor=white"/><img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic">
 
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=green&logo=github&style=plastic
 [github]: https://github.com/netsec007/theVault
@@ -17,7 +16,6 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 </p>
 
-<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
 </p>
