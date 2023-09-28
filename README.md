@@ -15,8 +15,6 @@
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=plastic&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-
-
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
 </p>
 
