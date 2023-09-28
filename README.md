@@ -30,5 +30,5 @@
 <br/>
 # 
 <p align="center">
-<img src="https://github.com/netsec007/netsec007/blob/main/github-metrics.svg"
+<img src="https://github.com/netsec007/netsec007/blob/main/github-metrics.svg&border_color=7F3FBF"
 <p/>
