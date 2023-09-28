@@ -18,7 +18,6 @@
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
 </p>
 
-<br/>
 <p align="center">
     <img src="https://img.shields.io/github/stars/netsec007/netsec007?style=for-the-badge&color=brightgreen&style=plastic">
     <img src="https://img.shields.io/github/forks/netsec007/netsec007?style=for-the-badge&color=purple&style=plastic">
