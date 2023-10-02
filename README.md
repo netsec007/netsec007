@@ -3,12 +3,14 @@
 
 <h4 align="left"> There's No Place Like 127.0.0.1 </h4>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] <a href="https://github.com/netsec007?tab=repositories" target="_blank" /> <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF style=plastic&logo=koding&logoColor=white"/><a/> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic"/>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2] <a href="https://github.com/netsec007?tab=repositories" target="_blank" /> <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF style=plastic&logo=koding&logoColor=white"/><a/> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic"/>
  
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=green&logo=github&style=plastic
 [github]: https://github.com/netsec007/theVault
 [website-badge]: https://img.shields.io/badge/Website-black?style=for-the-badge&logoColor=blue&logo=microsoftedge&style=plastic
 [website]: https://www.slackbluetide.com
+[website-badge2]: https://img.shields.io/badge/Website-black?style=for-the-badge&logoColor=blue&logo=cisco&style=plastic
+[website2]: https://netsec007.github.io/cisco-gems/
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=plastic&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
