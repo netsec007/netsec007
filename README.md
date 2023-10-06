@@ -11,7 +11,7 @@
 [website]: https://www.slackbluetide.com
 [website-badge2]: https://img.shields.io/badge/CiscoCmds-black?style=for-the-badge&logoColor=blue&logo=cisco&style=plastic
 [website2]: https://netsec007.github.io/cisco-gems/
-[email-badge]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=B717BC
+[email-badge]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=B717BC&style=plastic
 [email]: mailto:admin@slackbluetide.com
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
