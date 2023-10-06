@@ -9,7 +9,7 @@
 [github]: https://github.com/netsec007/theVault
 [website-badge]: https://img.shields.io/badge/Website-black?style=for-the-badge&logoColor=blue&logo=microsoftedge&style=plastic
 [website]: https://www.slackbluetide.com
-[website-badge2]: https://img.shields.io/badge/CiscoGems-black?style=for-the-badge&logoColor=blue&logo=cisco&style=plastic
+[website-badge2]: https://img.shields.io/badge/Cisco--Cmds-black?style=for-the-badge&logoColor=blue&logo=cisco&style=plastic
 [website2]: https://netsec007.github.io/cisco-gems/
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
