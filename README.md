@@ -10,9 +10,9 @@ https://github.com/netsec007/netsec007/blob/2c37a6b7543695b6d42dd01e3dc5346358d2
 [github-badge]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logoColor=green&logo=github&style=plastic
 [github]: https://github.com/netsec007/theVault
 [website-badge]: https://img.shields.io/badge/Website-black?style=for-the-badge&logoColor=blue&logo=microsoftedge&style=plastic
-[website]: https://www.slackbluetide.com
+[website]: https://vault.slackbluetide.com
 [website-badge2]: https://img.shields.io/badge/CiscoCmds-black?style=for-the-badge&logoColor=blue&logo=cisco&style=plastic
-[website2]: https://netsec007.github.io/cisco-gems/
+[website2]: https://cisco.slackbluetide.com
 [email-badge]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=B717BC&style=plastic
 [email]: mailto:admin@slackbluetide.com
 
