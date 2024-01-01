@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GyulyVGC/sniffnet</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Application to comfortably monitor your Internet traffic 🕵️‍♂️</div>
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aquasecurity/trivy</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kalkih/mini-graph-card</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalistic graph card for Home Assistant Lovelace UI</div>
@@ -404,7 +404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zmap/zmap</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ZMap is a fast single packet network scanner designed for Internet-wide network surveys.</div>
@@ -457,7 +457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LeCoupa/awesome-cheatsheets</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.</div>
@@ -758,7 +758,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Dec 2023, 00:34:37  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Jan 2024, 00:35:53  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
