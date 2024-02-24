@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netdata/community</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Netdata-powered applications and examples. For the community, by the community.</div>
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flo-at/minmon</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MinMon - an opinionated minimal monitoring and alarming tool</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koush/scrypted</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrypted is a high performance home video integration and automation platform</div>
@@ -404,7 +404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bonukai/MediaTracker</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self hosted media tracker for movies, tv shows, video games, books and audiobooks</div>
@@ -457,7 +457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>joshwcomeau/Tello</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐣 A simple and delightful way to track and manage TV shows.</div>
@@ -765,7 +765,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Feb 2024, 00:30:39  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Feb 2024, 00:29:12  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
