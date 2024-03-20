@@ -40,6 +40,8 @@ https://github.com/netsec007/netsec007/blob/2c37a6b7543695b6d42dd01e3dc5346358d2
     <img src="https://img.shields.io/badge/Author-nilbog-magenta?style=plastic">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=plastic">
 </p>
+
+<a href="https://app.daily.dev/netsec007"><img src="https://api.daily.dev/devcards/v2/zN4jbXAC237S99vE8tDFC.png?type=wide&r=1wn" width="652" alt="Netsec007's Dev Card"/></a>
 <br/>
 <p align="center">
 <kbd> <img src="https://github.com/netsec007/netsec007/blob/main/github-metrics.svg" /> </kbd>
