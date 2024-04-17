@@ -13,7 +13,7 @@ https://github.com/netsec007/netsec007/blob/2c37a6b7543695b6d42dd01e3dc5346358d2
 [website]: https://vault.slackbluetide.com
 [website-badge2]: https://img.shields.io/badge/CiscoCmds-black?style=for-the-badge&logoColor=24FF00&logo=cisco&style=plastic
 [website2]: https://cisco.slackbluetide.com
-[website-badge3]: https://img.shields.io/badge/CheatSheet-black?style=for-the-badge&logoColor=orange&logo=c&style=plastic
+[website-badge3]: https://img.shields.io/badge/CheatSheets-black?style=for-the-badge&logoColor=orange&logo=c&style=plastic
 [website3]: https://cs.slackbluetide.com
 [website-badge4]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=FFF000&logo=adventofcode&style=plastic
 [website4]: https://star.slackbluetide.com
