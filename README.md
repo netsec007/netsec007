@@ -16,7 +16,8 @@ https://github.com/netsec007/netsec007/blob/2c37a6b7543695b6d42dd01e3dc5346358d2
 [website-badge3]: https://img.shields.io/badge/CheatSheet-black?style=for-the-badge&logoColor=blue&logo=cs&style=plastic
 [website3]: https://cs.slackbluetide.com
 [website-badge4]: https://img.shields.io/badge/Stars-black?style=for-the-badge&logoColor=blue&logo=cisco&style=plastic
-[website4]: https://star.slackbluetide.com[email-badge]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=B717BC&style=plastic
+[website4]: https://star.slackbluetide.com
+[email-badge]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=B717BC&style=plastic
 [email]: mailto:admin@slackbluetide.com
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
