@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caronc/apprise-api</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight REST framework that wraps the Apprise Notification Library</div>
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LordZeuss/auto-authelia</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A series of scripts that will install a reverse proxy as well as configure authelia automatically.</div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nylonee/watchlistarr</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Customizable sync of Plex Watchlist to Sonarr/Radarr</div>
@@ -404,7 +404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LionCityGaming/recently-added</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A widget for Homepage (https://gethomepage.dev/) that displays recently-added items for Plex.</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meeb/tubesync</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Syncs YouTube channels and playlists to a locally hosted media server</div>
@@ -785,7 +785,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jun 2024, 00:34:23  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Jun 2024, 00:34:08  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
