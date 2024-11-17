@@ -244,7 +244,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tautulli/Tautulli</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python based monitoring and tracking tool for Plex Media Server.</div>
@@ -297,7 +297,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bobrik/docker-socat</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal docker image for Socat</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zabbix/zabbix-docker</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Zabbix Dockerfiles</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zabbix/zabbix</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HaveAGitGat/Tdarr</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</div>
@@ -784,7 +784,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Nov 2024, 00:47:03  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Nov 2024, 00:50:35  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
