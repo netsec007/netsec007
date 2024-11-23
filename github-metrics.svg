@@ -244,7 +244,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tautulli/Tautulli</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python based monitoring and tracking tool for Plex Media Server.</div>
@@ -297,7 +297,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bobrik/docker-socat</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal docker image for Socat</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zabbix/zabbix-docker</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Zabbix Dockerfiles</div>
@@ -372,7 +372,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        853
+                                        854
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zabbix/zabbix</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HaveAGitGat/Tdarr</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</div>
@@ -784,7 +784,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Nov 2024, 00:48:14  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Nov 2024, 00:46:33  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
