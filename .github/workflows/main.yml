@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: netsec007/metrics@master
+      - uses: netsec007/metrics@main
         with:
           token: ${{ secrets.METRICS_SECRET }}
           plugin_topics: yes
