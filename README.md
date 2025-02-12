@@ -3,7 +3,7 @@
 
 <h4 align="left"> There's No Place Like 127.0.0.1 </h4>
 
-![-----------------------------------------------------](
+![---------------------------------------------------------------](
 https://github.com/netsec007/netsec007/blob/2c37a6b7543695b6d42dd01e3dc5346358d22a46/assets/aqua.png)
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> [![GitHub][github-badge]][github] [![Website][website-badge]][website] [![Website2][website-badge2]][website2] [![Website3][website-badge3]][website3] [![Website4][website-badge4]][website4] [![Email][email-badge]][email]<a href="https://github.com/netsec007?tab=repositories" target="_blank" /> <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF style=plastic&logo=koding&logoColor=white"/><a/> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic"/>
  
@@ -24,7 +24,7 @@ https://github.com/netsec007/netsec007/blob/2c37a6b7543695b6d42dd01e3dc5346358d2
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=plastic&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cisco.svg" width="50"></a>
+<a href="#"><img src="https://github.com/netsec007/netsec007/blob/main/Cisco.svg" width="50"></a>
 
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
