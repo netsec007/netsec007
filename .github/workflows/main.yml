@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: netsec007/metrics@master
         with:
-          token: ${{ secrets.metrics_secret }}
+          token: ${{ secrets.METRICS_SECRET }}
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
