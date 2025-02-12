@@ -32,7 +32,7 @@ https://github.com/netsec007/netsec007/blob/2c37a6b7543695b6d42dd01e3dc5346358d2
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 </div>
 
-###[![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=ansible,bash,cloudflare,devto,docker,github,grafana,linux,prometheus,py,raspberrypi,vim,vscode)](https://skillicons.dev)
 </p>
 
 <p align="center">
@@ -47,6 +47,3 @@ https://github.com/netsec007/netsec007/blob/2c37a6b7543695b6d42dd01e3dc5346358d2
 
 <a href="https://app.daily.dev/netsec007"><img src="https://api.daily.dev/devcards/v2/zN4jbXAC237S99vE8tDFC.png?type=wide&r=1wn" width="652" alt="Netsec007's Dev Card"/></a>
 <br/>
-<p align="center">
-<kbd> <img src="https://github.com/netsec007/netsec007/blob/main/github-metrics.svg" /> </kbd>
-<p/>
